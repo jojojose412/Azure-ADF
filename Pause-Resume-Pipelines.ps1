@@ -1,5 +1,5 @@
 ###############################################--PARAMETER DEFINING--#################################################### 
-param([string]$rg="CSSDev",[string]$sub="IMAP-EDW-Dev-ITG",[string]$df="css205784dev-df",[string]$Pause ="true",[bool]$nq=$false)
+param([string]$rg="rgname",[string]$sub="subname",[string]$df="dfname",[string]$Pause ="true",[bool]$nq=$false)
 
 
 ################################################--RE-USABLE SCRIPT VARIABLES--####################################################
